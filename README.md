@@ -1,5 +1,6 @@
 # Net::SMTP
 
+
 This library provides functionality to send internet mail via SMTP, the Simple Mail Transfer Protocol.
 
 For details of SMTP itself, see [RFC2821](http://www.ietf.org/rfc/rfc2821.txt).
